@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[blackKnight]]></title>
+        <description><![CDATA[blackKnight]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 10 Dec 2015 07:44:53 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[First Post]]></title>
+            <description><![CDATA[<article><h1>First Post</h1><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc bibendum consectetur odio, quis aliquam dui condimentum nec. Aenean dapibus volutpat euismod. Fusce luctus at diam dignissim fermentum. Vestibulum non nisi eget nisi molestie porta. Nulla vitae ipsum mollis, interdum nunc vel, dignissim nibh. Ut ac nulla mattis, blandit tortor et, ornare ex. Vivamus id pharetra arcu, consequat gravida libero. Aliquam fringilla efficitur ex eget pellentesque. Donec varius et massa non lobortis. Duis auctor porttitor risus, et sagittis metus blandit id.
+
+Proin in bibendum risus. Nunc non vulputate lectus. Morbi venenatis metus id leo sodales, sed ultricies nibh maximus. Suspendisse porttitor tincidunt ipsum, sit amet ultrices risus tristique ac. Cras sit amet orci blandit, consequat ante non, iaculis elit. Quisque ac semper sem, quis gravida turpis. Vestibulum a ultricies sem. Nullam in nisl tellus. Integer vitae ligula turpis. Suspendisse potenti. Phasellus convallis laoreet nulla, at convallis nunc volutpat eu. Vivamus ut elit id lacus vehicula pharetra vitae sit amet magna. Maecenas et odio vel mi porta tincidunt. Ut consequat risus vitae massa condimentum, eget consequat turpis vehicula.
+
+</p></article>]]></description>
+            <link>undefinedfirst-post/index.html</link>
+            <guid isPermaLink="false">bb513571-3049-4640-b1c8-bc6be7103fcc</guid>
+            <pubDate>Thu, 10 Dec 2015 07:44:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
