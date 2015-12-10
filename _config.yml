@@ -1,7 +1,7 @@
 name: blackKnight
 favicon: null
-layout_spectrum: 0.049297089921310544
-typography_spectrum: 0.667412813520059
+layout_spectrum: 0
+typography_spectrum: 0.57755
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.4902236482594162
-  lightness: 0.9600001245271415
-  saturation: 0.06053942791186273
-  rhythmicContrast: 0.3619005202781409
+    - '#0d181f'
+    - '#46687a'
+    - '#1f3f4f'
+    - '#faeee9'
+    - '#708d9e'
+  brandStrength: 0.5
+  lightness: 0.8125
+  saturation: 0.3125
+  rhythmicContrast: 0.25
 purpose: []
